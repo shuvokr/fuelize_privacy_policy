@@ -14,6 +14,9 @@ We use the information collected to provide and improve our service.
 We may use your mobile number to create your account.
 We will not share or sell your personal information to any third party without your consent.
 
+#### Information Delete:
+At FUELIZE, we take the privacy of our users very seriously. In line with this commitment, we have implemented strict policies and procedures to protect the personal information of our users. As part of these efforts, we have made it possible for users to request the deletion of their personal data from our mobile app at any time. If you wish to have your data removed, please contact our customer support team to facebook page and we will process your request as soon as possible. We apologize for any inconvenience this may cause and thank you for entrusting us with your personal information.
+
 #### Security:
 We take measures to protect the security of your personal information.
 Your account is protected by 2FA.
